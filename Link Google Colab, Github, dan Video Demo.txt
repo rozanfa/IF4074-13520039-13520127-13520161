@@ -1,0 +1,13 @@
+Link Google Colab
+CNN: https://colab.research.google.com/drive/1OgyLnbu4RXHkx484JLmitOvEwOiVj6D2#scrollTo=adUIAo6OqXI5 
+RNN (LSTM):
+https://colab.research.google.com/drive/1Bh7R9dxntX1uujwmtgTRK1gq3qbdFbHF?usp=sharing 
+
+
+Link Repository Github:
+https://github.com/rozanfa/IF4074-13520039-13520127-13520161 
+
+Link Video Demo:
+https://youtu.be/6UTUJIIAsmA 
+
+
